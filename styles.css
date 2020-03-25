@@ -1,0 +1,9 @@
+ html,
+      body,
+      #map {
+        height: 90%;
+        width: 95%;
+        margin: auto;
+        margin-top: 2rem;
+        padding: 0;
+      }
